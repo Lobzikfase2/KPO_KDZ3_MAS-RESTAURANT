@@ -1,0 +1,97 @@
+{
+  "dish_cards": [
+    {
+      "card_id": 518,
+      "dish_name": "Princess Nuri tea bag in a paper cup",
+      "card_descr": "pouring boiled water into a paper cup + 2 bags of sugar",
+      "card_time": 0.4,
+      "operations": [
+        {
+          "oper_type": 17,
+          "equip_type": 25,
+          "oper_time": 0.4,
+          "oper_async_point": 0,
+          "oper_products": [
+            {
+              "prod_type": 18,
+              "prod_quantity": 1
+            },
+            {
+              "prod_type": 23,
+              "prod_quantity": 2
+            },
+            {
+              "prod_type": 24,
+              "prod_quantity": 0.2
+            },
+            {
+              "prod_type": 12,
+              "prod_quantity": 1
+            },
+            {
+              "prod_type": 19,
+              "prod_quantity": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "card_id": 900,
+      "dish_name": "French fries",
+      "card_descr": "Sliced potatoes fried in oil",
+      "card_time": 1.55,
+      "operations": [
+        {
+          "oper_type": 19,
+          "equip_type": 5,
+          "oper_time": 0.2,
+          "oper_async_point": 0,
+          "oper_products": [
+            {
+              "prod_type": 9,
+              "prod_quantity": 0.25
+            }
+          ]
+        },
+        {
+          "oper_type": 20,
+          "equip_type": -1,
+          "oper_time": 0.4,
+          "oper_async_point": 0,
+          "oper_products": [
+
+          ]
+        },
+        {
+          "oper_type": 21,
+          "equip_type": 4,
+          "oper_time": 0.8,
+          "oper_async_point": 0,
+          "oper_products": [
+            {
+              "prod_type": 10,
+              "prod_quantity": 0.15
+            }
+          ]
+        },
+        {
+          "oper_type": 22,
+          "equip_type": -1,
+          "oper_time": 0.15,
+          "oper_async_point": 0,
+          "oper_products": [
+            {
+              "prod_type": 7,
+              "prod_quantity": 0.007
+            },
+            {
+              "prod_type": 8,
+              "prod_quantity": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "operation_types": [
+    {
+      "oper_type_id": 1,
+      "oper_type_name": "frying"
+    },
+    {
+      "oper_type_id": 17,
+      "oper_type_name": "pouring boiled water into a paper cup"
+    },
+    {
+      "oper_type_id": 18,
+      "oper_type_name": "Washing the product"
+    },
+    {
+      "oper_type_id": 19,
+      "oper_type_name": "Washing the product"
+    },
+    {
+      "oper_type_id": 20,
+      "oper_type_name": "Slicing"
+    },
+    {
+      "oper_type_id": 21,
+      "oper_type_name": "Frying potatoes in oil"
+    },
+    {
+      "oper_type_id": 22,
+      "oper_type_name": "Serving the dish"
+    }
+  ]
+}

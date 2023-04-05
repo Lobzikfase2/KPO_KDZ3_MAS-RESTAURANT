@@ -1,0 +1,16 @@
+{
+  "menu_dishes": [
+    {
+      "menu_dish_id": 33,
+      "menu_dish_card": 900,
+      "menu_dish_price": 117,
+      "menu_dish_active": true
+    },
+    {
+      "menu_dish_id": 28,
+      "menu_dish_card": 518,
+      "menu_dish_price": 59,
+      "menu_dish_active": true
+    }
+  ]
+}

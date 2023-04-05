@@ -1,0 +1,54 @@
+{
+  "equipment": [
+    {
+      "equip_id": 12,
+      "equip_type": 2,
+      "equip_name": "LIDER 250",
+      "equip_active": true
+    },
+    {
+      "equip_id": 13,
+      "equip_type": 2,
+      "equip_name": "LIDER 150",
+      "equip_active": false
+    },
+    {
+      "equip_id": 14,
+      "equip_type": 25,
+      "equip_name": "DAZHENG LOOKYAMI",
+      "equip_active": true
+    },
+
+
+    {
+      "equip_id": 10,
+      "equip_type": 25,
+      "equip_name": "DAZHENG LOOKYAMI1",
+      "equip_active": true
+    },
+    {
+      "equip_id": 11,
+      "equip_type": 25,
+      "equip_name": "DAZHENG LOOKYAMI2",
+      "equip_active": true
+    },
+    {
+      "equip_id": 15,
+      "equip_type": 5,
+      "equip_name": "BORK EXTREME 4000",
+      "equip_active": true
+    },
+    {
+      "equip_id": 16,
+      "equip_type": 5,
+      "equip_name": "BORK SOFT 210",
+      "equip_active": true
+    },
+    {
+      "equip_id": 17,
+      "equip_type": 4,
+      "equip_name": "BARIER COMP.",
+      "equip_active": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "visitors_orders": [
+    {
+      "vis_name": "Alexandr Pavlov",
+      "vis_ord_started": "2023-02-28T10:12:37",
+      "vis_ord_ended": "2023-02-28T10:13:05",
+      "vis_ord_total": 118,
+      "vis_ord_dishes": [
+        {
+          "ord_dish_id": 1,
+          "menu_dish": 28
+        }
+      ]
+    },
+    {
+      "vis_name": "Kuchum Michaylovich",
+      "vis_ord_started": "2023-02-28T10:12:37",
+      "vis_ord_ended": "2023-02-28T10:13:05",
+      "vis_ord_total": 118,
+      "vis_ord_dishes": [
+        {
+          "ord_dish_id": 6,
+          "menu_dish": 33
+        }
+      ]
+    },
+    {
+      "vis_name": "Victor Kotonov",
+      "vis_ord_started": "2023-02-28T10:12:37",
+      "vis_ord_ended": "2023-02-28T10:13:05",
+      "vis_ord_total": 118,
+      "vis_ord_dishes": [
+        {
+          "ord_dish_id": 7,
+          "menu_dish": 28
+        },
+        {
+          "ord_dish_id": 8,
+          "menu_dish": 33
+        },
+        {
+          "ord_dish_id": 9,
+          "menu_dish": 28
+        }
+      ]
+    }
+  ]
+}
